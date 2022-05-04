@@ -1,0 +1,17 @@
+              class 1
+class name:string
+
+p   p   p   a                 class 2
+class name:structure
+
+p   p   p   a                 class 3
+class name:string
+
+p   djkldm
+o   fmfklm
+p   fjmf
+p   fjnf
+              class 4
+class name:jssj
+
+a   a   a   p   jjjjj

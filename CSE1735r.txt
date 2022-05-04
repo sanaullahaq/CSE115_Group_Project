@@ -1,0 +1,68 @@
+              class 1
+class name:fff
+
+p
+p
+p
+p
+              class 2
+class name:pdd
+
+p
+p
+p
+p
+              class 3
+class name:dfgg
+
+p
+p
+p
+p
+              class 4
+class name:dfdg
+
+p   jhfjj
+p   dgh
+p   thhg
+p   kvhkh
+              class 1
+class name:string
+
+p   a   a   a                 class 2
+class name:structure
+
+p   good
+a   bad
+p   jfklfm
+p   djdk
+              class 3
+class name:string
+
+p   p   p   p                 class 4
+class name:dfklmklfl
+
+p   dkmdk
+p   lmklf
+a   dkd
+a   ddkl
+              class 1
+class name:fflk
+
+p   p   a   a                 class 2
+class name:djfj
+
+p   fjfmf
+p   fjfn
+a   fjfn
+p   fjnfk
+              class 3
+class name:flfm
+
+p   p   p   p                 class 4
+class name:fjflfm
+
+p   fjfnk
+p   fjfk
+p   pfjnf
+p   pfjnfjm

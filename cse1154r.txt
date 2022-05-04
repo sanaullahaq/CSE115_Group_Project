@@ -1,0 +1,55 @@
+              class 1
+class name:jfjj
+
+p
+p
+a
+
+              class 1
+class name:string
+
+p   a   p   p                 class 2
+class name:structure
+
+a   a   p   p                 class 3
+class name:asvf
+
+a   a
+a   asdda
+p   afadfa
+a   gagadga
+              class 4
+class name:asasf
+
+p   p   a   p                 class 1
+class name:string
+
+p   a   a   p                 class 2
+class name:structure
+
+p   p   p   a                 class 3
+class name:file
+
+p   he is bad at programming
+a   hurr
+p   dancing master
+a   saradin chatting
+              class 4
+class name:whatever
+
+p   p   p   p                 class 1
+class name:dd
+
+p   p   p   p                 class 2
+class name:p
+
+p   p   p   p                 class 3
+class name:p
+
+p   p   p   p                 class 4
+class name:p
+
+p   
+p   p
+p   p
+p   p

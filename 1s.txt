@@ -1,0 +1,6 @@
+class 1
+class name:pointer
+p
+p
+p
+p

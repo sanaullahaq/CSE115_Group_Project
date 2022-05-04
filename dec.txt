@@ -1,0 +1,2 @@
+1.PLATE       5
+2.GLASS       3

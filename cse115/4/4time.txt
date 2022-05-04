@@ -1,0 +1,4 @@
+Faculty:Rsl
+Cedit Hour :3
+Timinig:MW(2:40pm-4:10pm)
+Location:SAC310

@@ -1,0 +1,5 @@
+This is the first course in the computer science programming sequence and is required of all computer science and engineering major with no prior programming experience. This course introduces the fundamental concepts of structured programming. Topics include fundamental programming constructs: syntax and semantics of a higher-level language, variables, expressions, and assignment, simple I/O to console and files, conditional and iterative control structures, functions and parameter passing, dynamic memory allocation; Fundamental data structures: arrays, records, strings and string processing; Software development methodology: Fundamental design concepts and principles, testing and debugging strategies; Fundamental of computers; Professionalism, codes of ethics and responsible conduct, copyrights, intellectual property, and software piracy.
+
+The lab components will deal with problem solving program development using the method and techniques covered in the theory part.
+
+ 

@@ -1,0 +1,13 @@
+Code and Name	CSE 173 Discrete Mathematics
+Type	
+Credit Hours	3
+Pre-requisites	CSE 115, CSE 115L
+Introduction to discrete mathematical structures.
+Â  Topics include sets, propositions, Boolean 
+algebra, relations, functions, algebraic systems, 
+monoids, fields, groups, ring, induction, 
+recursion, permutations and combinations, 
+recurrence relation, generating functions 
+and solutions, principles of counting, 
+principles of inclusion and exclusion, 
+discrete probability.

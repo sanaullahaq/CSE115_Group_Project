@@ -1,0 +1,14 @@
+nva : hello
+rsl : vlo asen sbay?
+sam : ki obostha sbar?
+rsl : hello all.good morning.
+rsl : hi all!
+nva : what"s up
+rsl : boro peray asi..
+nva : ffklkf
+rsl : hello all.good morning...
+rsl : sbay kmn asen?
+rsl : hello all
+rsl : vlo na?
+rsl : khubi busy vai...
+nva : ami to aro busy vai..

@@ -1,0 +1,70 @@
+MR. RASHED SHELIM
+
+Lecturer
+MS in  Telecommunication Engineering, RWTH Aachen University, Germany
+
+BS in Electronics and Telecommunication Engineering, North South University, Dhaka, Bangladesh
+
+ 
+
+ 
+
+Office: SAC 918
+Office hours:
+ST 10:20 AM – 11:20 AM,
+
+MW 1:00 PM – 2:40 PM,
+
+ 
+
+Phone: +88 02 55668200 Ext – 1546
+Email: rashed.shelim@northsouth.edu
+Research Areas
+
+Broadband Access and Communication Technologies
+Mobile, Wireless and Web Applications Development
+RF, Microwave and Communication Technology
+Research Interests
+
+Cognitive Radio
+Ultra Wide Band Communication Systems
+Channel Coding
+MIMO-OFDM
+Teaching
+
+CSE 115 Programming Language I
+CSE 115L Programming Language I Lab
+ETE 424 Mobile and Wireless Communication System
+ETE 424L Mobile and Wireless Communication System Lab
+EEE 331 Data Communications & Networks
+Selected Publications
+
+Journals
+
+R. Shelim, M. A. Matin and A.U. Alam, “Performance Analysis of High-Rate Full-Diversity Space Time Frequency/Space Frequency Codes for Multiuser MIMO-OFDM,” WSEAS Transactions on Communications, ISSN: 1109-2742, vol. 13, no.2,pp. 51-61, 2014
+R. Shelim, M. A. Matin and A.U. Alam, “A Systematic Design of High-Rate Full-Diversity Space-Frequency Codes for Multiuser MIMO-OFDM System,” WSEAS Transactions on Communications, ISSN: 1109-2742, vol. 12, no.4, , 2013
+R S Topu, A Alam, M A Matin, “,” High-Rate Full-Diversity Space-Time-Frequency Code for Multiuser MIMO-OFDM Systems over Frequency Selective Multiple Access Channels,” Journal of Convergence Information Technology (JCIT), South Korea,vol.6,no.8, pp. 8-22,, 2011
+Conference Papers
+
+R S Topu, A Alam and M A Matin, “High-rate full-diversity multiuser space- frequency codes,” ICCIT 2010 Proceedings, Nov. 30-Dec.2, Korea, pp.411-416., 2010
+Professional Activity
+
+Research Assistant
+
+Organization                         : P3 Communications
+
+Department                           : Network Optimization (3G,LTE)
+
+From                                      : April 23, 2013
+
+To                                          : March 31, 2015
+
+Core Network Engineer, Packet Switching
+
+Organization                         : Huawei Technologies (Bangladesh) LTD
+
+Department                           :  Network Integration Service Department (PS-Core)
+
+From                                     : November 3, 2011
+
+To                                          : June 30, 2012
